@@ -16,3 +16,10 @@
    margin: 0;
    text-align: center;
 }
+.content-text{
+   font: 16px;
+   line-height: 20px;
+   font-weight: 500;
+   color: blue;
+   margin: 0;
+}
